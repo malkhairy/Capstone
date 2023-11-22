@@ -27,4 +27,4 @@ We used accuaracy for training and test sets as evaluation metrics and ROC curve
 Based on accuracy on the validation set, Tree model outperformed all other models.
 
 
-Analysis can be found @: 
+Analysis can be found @: https://github.com/malkhairy/Capstone/blob/dcecd75d7246c281dfff4033f45381413258e8f5/Capstone_Analysis.ipynb
