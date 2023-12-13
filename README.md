@@ -38,13 +38,11 @@ Among all the tested predictive models, tree model had the highest accuracy and 
 
 Following table summarizes the result of accuracy:
 
-	model	          train_score	test_score
-0	KNN	                0.908840	0.801653
-1	Logistic Regression	0.798343	0.661157
-2	Tree	            1.000000	0.826446
-3	SVC	                0.848066	0.719008
+<img width="242" alt="image" src="https://github.com/malkhairy/Capstone/assets/138996938/6ec7ea09-b48e-4de4-b216-ddcdc6e86d11">
 
-ROC graph is shown here: ![image](https://github.com/malkhairy/Capstone/assets/138996938/01466ca4-983b-425e-a266-1f368fb11fb0)
+ROC graph is shown here: 
+
+![image](https://github.com/malkhairy/Capstone/assets/138996938/01466ca4-983b-425e-a266-1f368fb11fb0)
 
 In conclusion, we found that HbA1c, age, gender and payor plan payments are important predictors of medication adherence for diabetes care. Using these variables, the community pharmacist can identify patients at risk and design comprehensive medication management programs to improve adherence and diabetes outcomes. . Higher adherence will reduce comorbidities, decrease hospitalizations, and reduce overall healthcare costs specifically in chronic conditions, including diabetes mellitus, and heart failure. Thus, a predictive analytics approach could be used to demonstrate how event-based data can form the basis for identifying patients who are at risk for future non-adherence and, consequently, more complications
 
